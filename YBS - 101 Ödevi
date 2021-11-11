@@ -1,0 +1,3 @@
+D=float(input("lütfen günü giriniz:"))
+hesap = 0.01 * (2**D)
+print("kazanç:",hesap)
